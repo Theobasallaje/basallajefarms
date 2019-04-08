@@ -5,15 +5,18 @@
 body {
     padding-top: 3rem;
     padding-bottom: 3rem;
-    color: #5a5a5a;
+    /* color: #5a5a5a; */
   }
   
   
   /* CUSTOMIZE THE CAROUSEL
   -------------------------------------------------- */
-  
+
   /* Carousel base class */
   .carousel {
+    /* for same background images for each slider item */
+    /* background: url(/public/assets/images/slider1.jpg);
+    background-size: cover; */
     margin-bottom: 4rem;
   }
   /* Since positioning the image, we need to help out the caption */
